@@ -1,8 +1,8 @@
 This game is made as a Console Application.
 
 A) To RUN: 1) Open IntelliJ 
-	     2) Open Raft folder as project.
-	     3) Run the Main.java
+	   2) Open Raft folder as project.
+	   3) Run the Main.java
 
 B) Informations:
 
